@@ -1,0 +1,21 @@
+ [{
+    "id": "1",
+    "name" :"ahmed mohamed abubakr",
+    "national_id":"3000000002222222",
+    "token":123456,
+    "email":"ahmed@gmail.com",
+    "trainings":[
+        "innvEgypt", "freelancing"
+    ]
+},
+{
+    "id": "2",
+    "name" :"amani salah",
+    "national_id":"3030303030303030",
+    "token":112233,
+    "email":"amani@gmail.com",
+    "trainings":[
+        "ideaction camp", "innvEgypt"
+    ]
+}
+]
