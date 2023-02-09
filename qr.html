@@ -36,3 +36,13 @@ var html5QrcodeScanner = new Html5QrcodeScanner(
 html5QrcodeScanner.render(onScanSuccess, onScanError);
 
 </script>
+
+<script src="">
+  import fetch from 'node-fetch';
+
+  fetch("./data.json")
+  .then(response => {
+  return response.json();
+  })
+  .then(jsondata => console.log(jsondata));
+</script>
